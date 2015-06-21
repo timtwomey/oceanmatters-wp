@@ -1,0 +1,20 @@
+{
+  "name": "twentythirteen",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timtwomey/oceanmatters-wp",
+  "authors": [
+    "Twomey",
+    "Tim <tim.twomey@fmr.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
